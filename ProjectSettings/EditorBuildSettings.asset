@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/VRCinemaforMobile/Scenes/Menu.unity
+    guid: 27880fb19a049bd44952a732f7009f2f
+  - enabled: 1
     path: Assets/VRCinemaforMobile/Scenes/BabyDriver.unity
     guid: 5f4c6eb2bcbc88b44861f4a5613576c1
   - enabled: 1
     path: Assets/VRCinemaforMobile/Scenes/Jaws.unity
     guid: 81b7ab4e2f54e094c838d96ebfade1d4
-  - enabled: 1
-    path: Assets/VRCinemaforMobile/Scenes/Menu.unity
-    guid: 27880fb19a049bd44952a732f7009f2f
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a2e2f3d9ca3e816498462d1c3898a8bf,
       type: 2}
