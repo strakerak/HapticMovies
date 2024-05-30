@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/VRCinemaforMobile/Scenes/BabyDriver.unity
     guid: 5f4c6eb2bcbc88b44861f4a5613576c1
+  - enabled: 1
+    path: Assets/VRCinemaforMobile/Scenes/Jaws.unity
+    guid: 81b7ab4e2f54e094c838d96ebfade1d4
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a2e2f3d9ca3e816498462d1c3898a8bf,
       type: 2}

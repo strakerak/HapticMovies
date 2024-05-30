@@ -4,7 +4,7 @@ using UnityEngine;
 using Bhaptics.SDK2;
 using System.Threading;
 
-public class BDbhapticsplay : MonoBehaviour
+public class Jbhapticsplay1 : MonoBehaviour
 {
     // Start is called before the first frame update
 
@@ -12,7 +12,7 @@ public class BDbhapticsplay : MonoBehaviour
     void Start()
     {
         StartCoroutine(delayer());
-        BhapticsLibrary.Play("vr_vest_babydriverclone");   
+        BhapticsLibrary.Play("jaws");   
     }
 
     // Update is called once per frame
